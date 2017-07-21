@@ -1,0 +1,32 @@
+<HOSTList>
+    <HOSTList>
+        <Host_name
+		file="baidu"
+		Host="\w+\.baidu\.com"
+		URI="\d"/>
+		
+        <Host_name
+		file="ele"
+		Host="\w+\.ele\.me"
+		URI="/(\w+):\/"/>
+		
+        <Host_name
+		file="sina"
+		Host="\w+\.sina\.com"
+		URI="/(\w+):\/"/>
+		
+        <Host_name
+		file="jd"
+		Host="\w+\.jd\.com"
+		URI="/(\w+):\/"/>
+		
+        <Host_name
+		file="taobao"
+		Host="\w+\.taobao\.com"
+		URI="/(\w+):\/"/>
+    </HOSTList>
+    <MAC_ADDRESS>
+        <mac>64-00-6A-47-C4-BD</mac>
+       
+    </MAC_ADDRESS>
+</HOSTList>
